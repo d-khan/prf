@@ -17,7 +17,16 @@
 <img width="552" alt="image" src="https://github.com/d-khan/prf/assets/11669149/1151e94c-1e44-4f18-a162-9c5343b2f28e">
 
 
+## CISC 211 - Computer Organization & Assembly Language
 
+> Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> Oct 15 2023  
+> Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> 8 weeks course evaluation (wks 1-8)  
+> N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> 20  
+> Response rate&nbsp;&nbsp;
+> 80%
 
 
 
