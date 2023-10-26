@@ -3,7 +3,7 @@
 
 > Date taken:&ensp;&ensp;Oct 15 2023  
 > Period:&ensp;&ensp;&ensp;&ensp;&ensp;8 weeks course evaluation (wks 1-8)  
-> N: &ensp; &ensp; 20  
+> N:&ensp;&ensp;20  
 > Response rate: &ensp; &ensp; 80%  
 
 <img width="561" alt="image" src="https://github.com/d-khan/prf/assets/11669149/8422c8e2-3b26-4317-b56d-e531b7bf35ac">
