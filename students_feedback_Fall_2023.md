@@ -2,7 +2,7 @@
 ## CISC 191 - Intermediate Java Programming
 
 > Date taken: &ensp; &ensp; Oct 15 2023  
-> Period: &ensp; &ensp; &ensp; 8 weeks course evaluation (wks 1-8)  
+> Period: &ensp; &ensp; &ensp; &ensp; 8 weeks course evaluation (wks 1-8)  
 > N: &ensp; &ensp; 20  
 > Response rate: &ensp; &ensp; 80%  
 
