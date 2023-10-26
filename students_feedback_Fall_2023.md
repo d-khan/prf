@@ -1,4 +1,20 @@
 # Students feedbacks
+## CISC 187 - Computer Organization & Assembly Language
+
+> Mode&nbsp;&nbsp;&nbsp;&nbsp;100% async online
+> Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> Oct 15 2023  
+> Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> 8 weeks course evaluation (wks 1-8)  
+> N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> 20  
+> Response rate&nbsp;&nbsp;
+> 80%
+
+
+
+
+
 ## CISC 211 - Computer Organization & Assembly Language
 
 > Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
