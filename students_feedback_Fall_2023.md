@@ -25,7 +25,7 @@
 > 8 weeks course evaluation (wks 1-8)  
 > N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > 31  
-> Response rate&nbsp;&nbsp;
+> Response rate&nbsp;&nbsp;  
 > 94%
 
 <img width="549" alt="image" src="https://github.com/d-khan/prf/assets/11669149/2245bef9-7188-41d8-9ca3-1d47a4013b38">
