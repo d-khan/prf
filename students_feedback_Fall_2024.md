@@ -44,19 +44,20 @@
 > Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > In-person hybrid  
 > Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> Oct 15 2023   
+> May 15 2023   
 > Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 8 weeks course evaluation (wks 1-8)  
+> 16 weeks course evaluation  
 > N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 20  
+> 13  
 > Response rate&nbsp;&nbsp;
-> 80%
+> 81%
 
+<img width="892" alt="image" src="https://github.com/user-attachments/assets/43de60f8-581d-4116-8711-da64de130cec">
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/e258eed9-fb86-4208-a876-95ad7c9e053e">
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/448d3ee7-285b-418a-bde1-700fb4c74407">
+<img width="874" alt="image" src="https://github.com/user-attachments/assets/d14cec64-bd15-4e20-b7c2-392be1b856a4">
+<img width="876" alt="image" src="https://github.com/user-attachments/assets/20c8a559-6826-4c72-b031-b37f868f76c8">
 
-<img width="561" alt="image" src="https://github.com/d-khan/prf/assets/11669149/8422c8e2-3b26-4317-b56d-e531b7bf35ac">
-<img width="576" alt="image" src="https://github.com/d-khan/prf/assets/11669149/7cc93ac3-c4cf-442a-b502-c8c7fd5866e9">
-<img width="540" alt="image" src="https://github.com/d-khan/prf/assets/11669149/75678efc-ab41-4977-b9f3-8221cc55668b">
-<img width="552" alt="image" src="https://github.com/d-khan/prf/assets/11669149/1151e94c-1e44-4f18-a162-9c5343b2f28e">
 
 
 
