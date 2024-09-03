@@ -4,18 +4,19 @@
 > Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > 100% async online  
 > Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> Oct 15 2023  
+> Mar 22 2024  
 > Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > 8 weeks course evaluation (wks 1-8)  
 > N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 26  
+> 22  
 > Response rate&nbsp;&nbsp;
-> 86%
+> 63%
 
-<img width="546" alt="image" src="https://github.com/d-khan/prf/assets/11669149/a0f68261-ab6a-4044-a3f4-14f39ab2a17a">
-<img width="552" alt="image" src="https://github.com/d-khan/prf/assets/11669149/24447315-d15f-4e7c-ae50-80b764d4fdcf">
-<img width="550" alt="image" src="https://github.com/d-khan/prf/assets/11669149/50a5d9ed-318c-47b4-a393-a8cfe8ae5954">
-<img width="553" alt="image" src="https://github.com/d-khan/prf/assets/11669149/65ada8fc-b852-4103-a736-96a204e39c5a">
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/c450618e-e41a-4b21-b62f-0fe3213e61c6">
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/2cf91c2a-0473-4fa9-9f97-bf44b4e163af">
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/274986ad-88ba-4d5e-8028-3ddf929dcd68">
+<img width="878" alt="image" src="https://github.com/user-attachments/assets/c4fc1427-977e-497b-9fe5-edd18141c98b">
+
 
 ## CISC 191 - Intermediate Java Programming
 
