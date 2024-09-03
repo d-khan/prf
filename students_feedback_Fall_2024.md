@@ -23,18 +23,20 @@
 > Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > In-person hybrid  
 > Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> Oct 15 2023  
+> May 16 2024  
 > Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 8 weeks course evaluation (wks 1-8)  
+> 16 weeks course evaluation  
 > N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 31  
+> 14  
 > Response rate&nbsp;&nbsp;
-> 94%
+> 56%
 
-<img width="549" alt="image" src="https://github.com/d-khan/prf/assets/11669149/2245bef9-7188-41d8-9ca3-1d47a4013b38">
-<img width="562" alt="image" src="https://github.com/d-khan/prf/assets/11669149/69db1b86-9004-4c96-b5e9-4555b26a730e">
-<img width="566" alt="image" src="https://github.com/d-khan/prf/assets/11669149/2377e355-d1f1-4360-a4ef-53d0c1e22a12">
-<img width="561" alt="image" src="https://github.com/d-khan/prf/assets/11669149/9edd1611-5076-4933-923c-8400b3390ef8">
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/7b9e58ec-4006-4a2b-8c47-7589792dcb34">
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/23d0cc35-bcd7-423e-8419-bb0652ab2015">
+<img width="867" alt="image" src="https://github.com/user-attachments/assets/92ee3c3e-c3a2-4903-ad3f-dbb50b7956bf">
+<img width="872" alt="image" src="https://github.com/user-attachments/assets/35e6218f-2c76-47b9-904e-c795b1ba1aaa">
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/cae97e8e-9f78-4597-a7b8-9ae90fb28f44">
+
 
 
 ## CISC 211 - Computer Organization & Assembly Language
