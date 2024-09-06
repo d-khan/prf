@@ -1,4 +1,4 @@
-# Students feedbacks (Fall 2024)
+# Students feedbacks (Spring 2024)
 ## CISC 187 - Data Structures in C++
 
 > Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
