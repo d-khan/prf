@@ -1,5 +1,13 @@
 # Students feedbacks (Spring & Fall 2025)
 ## CISC 179 - Python Programming
+
+|-|-|
+|Mode|100% async online |
+|Date taken|Mar 30 2025 |
+|Period|8 weeks course evaluation (wks 1-8)|
+|No. of students|27|
+|Response rate|74%|
+
 > Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100% async online  
 > Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar 30 2025  
 > Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 weeks course evaluation (wks 1-8)  
