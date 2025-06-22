@@ -6,7 +6,7 @@
 > Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > 8 weeks course evaluation (wks 1-8)  
 > No. of students&nbsp; 27  
-> Response rate&nbsp;&nbsp; 74%
+> Response rate&nbsp;&nbsp;&nbsp; 74%
 
 
 ## CISC 187 - Data Structures in C++
