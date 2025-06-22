@@ -1,6 +1,7 @@
 # Students feedbacks (Spring & Fall 2025)
 ## CISC 179 - Python Programming
 
+|||
 |-|-|
 |Mode|100% async online |
 |Date taken|Mar 30 2025 |
