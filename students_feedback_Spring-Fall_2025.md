@@ -9,11 +9,12 @@
 |No. of students|27|
 |Response rate|74%|
 
-> Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;100% async online  
-> Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar 30 2025  
-> Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8 weeks course evaluation (wks 1-8)  
-> No. of students&nbsp;&nbsp;27  
-> Response rate&nbsp;&nbsp;&nbsp;&nbsp;74%
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/066915a9-0b53-4a2b-9318-f0705e18fd11" />
+<img width="565" alt="image" src="https://github.com/user-attachments/assets/c22eeab6-c366-4035-b9d6-8fa51df4af65" />
+<img width="581" alt="image" src="https://github.com/user-attachments/assets/718ae9ff-e53f-4fd1-8762-d33851668c4e" />
+<img width="562" alt="image" src="https://github.com/user-attachments/assets/661fe0bf-baec-400f-82d9-e41c0bb74b09" />
+
+
 
 
 ## CISC 187 - Data Structures in C++
