@@ -7,33 +7,27 @@
 |Date taken|Mar 30 2025 |
 |Period|8 weeks course evaluation (wks 1-8)|
 |No. of students|27|
-|Response rate|74%|
+|Response rate|74%; N = 20|
 
 <img width="567" alt="image" src="https://github.com/user-attachments/assets/066915a9-0b53-4a2b-9318-f0705e18fd11" />
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/c22eeab6-c366-4035-b9d6-8fa51df4af65" />
 <img width="581" alt="image" src="https://github.com/user-attachments/assets/718ae9ff-e53f-4fd1-8762-d33851668c4e" />
 <img width="562" alt="image" src="https://github.com/user-attachments/assets/661fe0bf-baec-400f-82d9-e41c0bb74b09" />
 
-
-
-
 ## CISC 187 - Data Structures in C++
 
-> Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 100% async online  
-> Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> Mar 22 2024  
-> Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 8 weeks course evaluation (wks 1-8)  
-> N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 22  
-> Response rate&nbsp;&nbsp;
-> 63%
+|||
+|-|-|
+|Mode|100% async online |
+|Date taken|Mar 30 2025 |
+|Period|16 weeks course evaluation (wks 1-8)|
+|No. of students|36|
+|Response rate|89%; N = 32|
 
-<img width="875" alt="image" src="https://github.com/user-attachments/assets/c450618e-e41a-4b21-b62f-0fe3213e61c6">
-<img width="881" alt="image" src="https://github.com/user-attachments/assets/2cf91c2a-0473-4fa9-9f97-bf44b4e163af">
-<img width="895" alt="image" src="https://github.com/user-attachments/assets/274986ad-88ba-4d5e-8028-3ddf929dcd68">
-<img width="878" alt="image" src="https://github.com/user-attachments/assets/c4fc1427-977e-497b-9fe5-edd18141c98b">
+<img width="564" alt="image" src="https://github.com/user-attachments/assets/abeaa3f0-7056-4c4a-9b69-597c3994bfe2" />
+<img width="559" alt="image" src="https://github.com/user-attachments/assets/ed8228c2-c80e-4853-b064-082a6832e87c" />
+<img width="573" alt="image" src="https://github.com/user-attachments/assets/8fe939f8-7b07-41b3-af42-e6bc9af526cf" />
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/f3bcefad-3247-4ba4-9ee6-508f47de9df9" />
 
 
 ## CISC 191 - Intermediate Java Programming
