@@ -1,4 +1,4 @@
-# Students feedbacks (Spring & Fall 2025)
+# Students feedbacks (Spring 2025)
 ## CISC 179 - Python Programming
 
 |||
