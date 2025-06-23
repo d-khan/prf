@@ -3,7 +3,7 @@
 
 |||
 |-|-|
-|Mode|100% async online |
+|Delivery mode|100% async online |
 |Date taken|Mar 30 2025 |
 |Period|8 weeks course evaluation (wks 1-8)|
 |No. of students|27|
@@ -18,7 +18,7 @@
 
 |||
 |-|-|
-|Mode|100% async online |
+|Delivery mode|100% async online |
 |Date taken|Mar 30 2025 |
 |Period|16 weeks course evaluation (wks 1-8)|
 |No. of students|36|
