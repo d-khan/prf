@@ -20,7 +20,7 @@
 |-|-|
 |Delivery mode|100% async online |
 |Date taken|Mar 30 2025 |
-|Period|16 weeks course evaluation (wks 1-8)|
+|Period|16 weeks course evaluation|
 |No. of students|36|
 |Response rate|89%; N = 32|
 
@@ -32,23 +32,18 @@
 
 ## CISC 191 - Intermediate Java Programming
 
-> Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> In-person hybrid  
-> Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> May 16 2024  
-> Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 16 weeks course evaluation  
-> N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 14  
-> Response rate&nbsp;&nbsp;
-> 56%
+|||
+|-|-|
+|Delivery mode|Hyflex |
+|Date taken|Mar 28 2025 |
+|Period|16 weeks course evaluation|
+|No. of students|17|
+|Response rate|94%; N = 16|
 
-<img width="901" alt="image" src="https://github.com/user-attachments/assets/7b9e58ec-4006-4a2b-8c47-7589792dcb34">
-<img width="887" alt="image" src="https://github.com/user-attachments/assets/23d0cc35-bcd7-423e-8419-bb0652ab2015">
-<img width="867" alt="image" src="https://github.com/user-attachments/assets/92ee3c3e-c3a2-4903-ad3f-dbb50b7956bf">
-<img width="872" alt="image" src="https://github.com/user-attachments/assets/35e6218f-2c76-47b9-904e-c795b1ba1aaa">
-<img width="893" alt="image" src="https://github.com/user-attachments/assets/cae97e8e-9f78-4597-a7b8-9ae90fb28f44">
-
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/f4fa2389-770f-48ce-96a7-4105217b2f3d" />
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/59ce7b19-fee3-4eb9-b13e-95f2a8f89a8e" />
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/6b458e1c-d250-4500-aae7-be68a31ba2c1" />
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/9521bcf9-fd0b-415f-8fd9-d114d8fe00a7" />
 
 
 ## CISC 211 - Computer Organization & Assembly Language
