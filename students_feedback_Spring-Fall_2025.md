@@ -48,24 +48,16 @@
 
 ## CISC 211 - Computer Organization & Assembly Language
 
-> Mode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> In-person hybrid  
-> Date taken&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> May 15 2024   
-> Period&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 16 weeks course evaluation  
-> N&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-> 13  
-> Response rate&nbsp;&nbsp;
-> 81%
+|||
+|-|-|
+|Delivery mode|Hyflex |
+|Date taken|Mar 28 2025 |
+|Period|16 weeks course evaluation|
+|No. of students|18|
+|Response rate|94%; N = 17|
 
-<img width="892" alt="image" src="https://github.com/user-attachments/assets/43de60f8-581d-4116-8711-da64de130cec">
-<img width="875" alt="image" src="https://github.com/user-attachments/assets/e258eed9-fb86-4208-a876-95ad7c9e053e">
-<img width="864" alt="image" src="https://github.com/user-attachments/assets/448d3ee7-285b-418a-bde1-700fb4c74407">
-<img width="874" alt="image" src="https://github.com/user-attachments/assets/d14cec64-bd15-4e20-b7c2-392be1b856a4">
-<img width="876" alt="image" src="https://github.com/user-attachments/assets/20c8a559-6826-4c72-b031-b37f868f76c8">
-
-
-
-
+<img width="576" alt="image" src="https://github.com/user-attachments/assets/5099732f-f35d-4977-9c6a-4a749392007a" />
+<img width="561" alt="image" src="https://github.com/user-attachments/assets/fca99ed7-5ccc-44e1-8785-f997454860cf" />
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/0e97c6e5-6838-4148-88ad-99c9f842b971" />
+<img width="557" alt="image" src="https://github.com/user-attachments/assets/e3d07ced-1bc5-475f-a7fd-757a4afbeb79" />
 
