@@ -40,7 +40,7 @@
 |No. of students|17|
 |Response rate|94%; N = 16|
 
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/f4fa2389-770f-48ce-96a7-4105217b2f3d" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/38fae44d-9c3b-4d1c-9bcc-3280bae689cd" />
 <img width="547" alt="image" src="https://github.com/user-attachments/assets/59ce7b19-fee3-4eb9-b13e-95f2a8f89a8e" />
 <img width="546" alt="image" src="https://github.com/user-attachments/assets/6b458e1c-d250-4500-aae7-be68a31ba2c1" />
 <img width="542" alt="image" src="https://github.com/user-attachments/assets/9521bcf9-fd0b-415f-8fd9-d114d8fe00a7" />
